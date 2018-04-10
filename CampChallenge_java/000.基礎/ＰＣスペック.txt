@@ -1,0 +1,40 @@
+OS 名	Microsoft Windows 10 Pro
+バージョン	10.0.16299 ビルド 16299
+OS の他の説明 	利用不可
+OS 製造元	Microsoft Corporation
+システム名	TUNK
+システム製造元	Microsoft Corporation
+システムモデル	Surface Pro 3
+システムの種類	x64-ベース PC
+システム SKU	Surface_Pro_3
+プロセッサ	Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz、2501 Mhz、2 個のコア、4 個のロジカル プロセッサ
+BIOS バージョン/日付	American Megatrends Inc. 3.11.2350, 2018/01/23
+SMBIOS バージョン	2.8
+埋め込みコントローラーのバージョン	32.00
+BIOS モード	UEFI
+BaseBoard メーカー	Microsoft Corporation
+BaseBoard モデル	利用不可
+BaseBoard 名	ベース ボード
+プラットフォームの役割	スレート
+セキュア ブートの状態	有効
+PCR7 構成	表示するためには昇格が必要です
+Windows ディレクトリ	C:\WINDOWS
+システム ディレクトリ	C:\WINDOWS\system32
+ブート デバイス	\Device\HarddiskVolume2
+ロケール	日本
+ハードウェア アブストラクション レイヤー	バージョン = "10.0.16299.248"
+ユーザー名	TUNK\Ryo
+タイム ゾーン	東京 (標準時)
+インストール済みの物理メモリ (RAM)	4.00 GB
+合計物理メモリ	3.91 GB
+利用可能な物理メモリ	641 MB
+合計仮想メモリ	8.94 GB
+利用可能な仮想メモリ	1.37 GB
+ページ ファイルの空き容量	5.03 GB
+ページ ファイル	C:\pagefile.sys
+仮想化ベースのセキュリティ	無効
+デバイス暗号化のサポート	表示するためには昇格が必要です
+Hyper-V - VM モニター モード拡張機能	はい
+Hyper-V - 第 2 レベル アドレス変換拡張機能	はい
+Hyper-V - ファームウェアで仮想化が有効	はい
+Hyper-V - データ実行防止	はい
