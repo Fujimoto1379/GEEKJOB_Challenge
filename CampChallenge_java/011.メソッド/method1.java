@@ -43,8 +43,12 @@ protected void processRequest(HttpServletRequest request, HttpServletResponse re
         response.setCharacterEncoding("UTF-8");
         PrintWriter out = response.getWriter();
         
+        for (int i = 1; i <= 10; i++) {
+    
         // ユーザー定義関数の呼び出し
         myprofile(out);
+
+        }
 }
 
 
